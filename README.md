@@ -20,7 +20,7 @@
 
 Hyperparameter Tuning using GridSearchCV
 
-## Best Model Performance:
+## Best Model Performance (Results):
 **Model:** Tuned Gradient Boosting Regressor
 
 **Best Params:** n_estimators=50, max_depth=3, learning_rate=0.05, subsample=1.0
