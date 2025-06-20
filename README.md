@@ -38,3 +38,10 @@ Hyperparameter Tuning using GridSearchCV
 - Country (e.g., USA, Czech Republic, Russia)
 
 ![Feature Importance](feature_imp.png)
+
+## Future Scope :
+**Expand Dataset:** Use a larger and more diverse influencer dataset to enhance model robustness and generalizability.
+
+**Text-Based Features:** Analyze post content using NLP (e.g., sentiment, hashtag analysis) to understand content impact.
+
+**Real-Time Dashboards:** Build interactive dashboards to allow dynamic filtering and deeper insights for marketing teams.
