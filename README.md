@@ -2,14 +2,14 @@
 ## Project Summary: Instagram Influencer Influence Score Prediction
 **Objective:** To predict an influencer’s influence_score based on their follower metrics, engagement statistics, and country of origin.
 
-**Dataset:**
+## Dataset:
 Total influencers: 200
 
 Features: Posts, Followers, Likes, Engagement Rate, Country, etc.
 
 Target: influence_score
 
-**Workflow:**
+## Workflow:
 EDA: Explored engagement rates, like patterns, and country distribution
 
 Feature Engineering: Created ratios, log-transformed variables, categorized influence level
@@ -20,7 +20,7 @@ Best Model: Gradient Boosting Regressor
 
 Hyperparameter Tuning using GridSearchCV
 
-**Best Model Performance:**
+## Best Model Performance:
 Model: Tuned Gradient Boosting Regressor
 
 Best Params: n_estimators=50, max_depth=3, learning_rate=0.05, subsample=1.0
@@ -29,11 +29,8 @@ Best Params: n_estimators=50, max_depth=3, learning_rate=0.05, subsample=1.0
 
 **MSE: 66.59**
 
-**Key Features Influencing Influence Score:**
+## Key Features Influencing Influence Score:
 Followers
 Total Likes
 Log of Posts
-
-Engagement Rate (60 Days)
-
 Country (e.g., USA, Czech Republic, Russia)
