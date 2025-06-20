@@ -36,3 +36,5 @@ Hyperparameter Tuning using GridSearchCV
 - Total Likes
 - Log of Posts
 - Country (e.g., USA, Czech Republic, Russia)
+
+![Feature Importance](feature_imp.png)
