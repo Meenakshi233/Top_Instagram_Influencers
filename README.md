@@ -3,7 +3,7 @@
 **Objective:** To predict an influencer’s influence_score based on their follower metrics, engagement statistics, and country of origin.
 
 ## Dataset:
-Total influencers: 200
+**Total influencers:** 200
 
 Features: Posts, Followers, Likes, Engagement Rate, Country, etc.
 
