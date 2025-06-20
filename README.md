@@ -1,6 +1,6 @@
 # Top_Instagram_Influencers
 ## Project Summary: Instagram Influencer Influence Score Prediction
-Objective:
+### Objective:
 To predict an influencer’s influence_score based on their follower metrics, engagement statistics, and country of origin.
 
 Dataset:
