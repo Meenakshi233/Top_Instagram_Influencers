@@ -30,7 +30,7 @@ Hyperparameter Tuning using GridSearchCV
 **MSE:** 66.59
 
 ## Key Features Influencing Influence Score:
--Followers
--Total Likes
--Log of Posts
--Country (e.g., USA, Czech Republic, Russia)
+- Followers
+- Total Likes
+- Log of Posts
+- Country (e.g., USA, Czech Republic, Russia)
