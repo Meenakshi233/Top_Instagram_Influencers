@@ -5,32 +5,32 @@
 ## Dataset:
 **Total influencers:** 200
 
-Features: Posts, Followers, Likes, Engagement Rate, Country, etc.
+**Features:** Posts, Followers, Likes, Engagement Rate, Country, etc.
 
-Target: influence_score
+**Target:** influence_score
 
 ## Workflow:
-EDA: Explored engagement rates, like patterns, and country distribution
+**EDA:** Explored engagement rates, like patterns, and country distribution
 
-Feature Engineering: Created ratios, log-transformed variables, categorized influence level
+**Feature Engineering:** Created ratios, log-transformed variables, categorized influence level
 
-Modeling: Linear Regression, Random Forest, Gradient Boosting, Lasso, Ridge
+**Modeling:** Linear Regression, Random Forest, Gradient Boosting, Lasso, Ridge
 
-Best Model: Gradient Boosting Regressor
+**Best Model:** Gradient Boosting Regressor
 
 Hyperparameter Tuning using GridSearchCV
 
 ## Best Model Performance:
-Model: Tuned Gradient Boosting Regressor
+**Model:** Tuned Gradient Boosting Regressor
 
-Best Params: n_estimators=50, max_depth=3, learning_rate=0.05, subsample=1.0
+**Best Params:** n_estimators=50, max_depth=3, learning_rate=0.05, subsample=1.0
 
-**R² Score: 0.606**
+**R² Score:** 0.606
 
-**MSE: 66.59**
+**MSE:** 66.59
 
 ## Key Features Influencing Influence Score:
-Followers
-Total Likes
-Log of Posts
-Country (e.g., USA, Czech Republic, Russia)
+-Followers
+-Total Likes
+-Log of Posts
+-Country (e.g., USA, Czech Republic, Russia)
