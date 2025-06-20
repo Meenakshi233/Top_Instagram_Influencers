@@ -29,7 +29,7 @@ Hyperparameter Tuning using GridSearchCV
 
 **MSE:** 66.59
 
-![](screenshot.png)
+![](actual_vs_predicted.png)
 
 ## Key Features Influencing Influence Score:
 - Followers
